@@ -4,6 +4,8 @@
 
 * **git status**
 
+
+![Пример вывода команды status!](status.PNG)
 * **git add**
 
 * **git commit -m "Message"**
