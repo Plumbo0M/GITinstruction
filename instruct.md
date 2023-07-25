@@ -15,3 +15,7 @@
 * **git checkout master**
 
 * **git diff**
+
+* **git branch**
+
+* **git merge**
