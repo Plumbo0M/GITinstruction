@@ -12,6 +12,9 @@
 
 * **git log**
 
+
+
+![Пример вывода команды log!](log.PNG)
 * **git checkout**
 
 * **git diff**
