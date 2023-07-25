@@ -34,6 +34,8 @@
 ![Пример вывода команды log!](log.PNG)
 * **git checkout**
 
+* **git checkout master**
+
 * **git diff**
 
 * **git branch**
