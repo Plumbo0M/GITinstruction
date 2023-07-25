@@ -12,8 +12,6 @@
 
 * **git checkout**
 
-* **git checkout master**
-
 * **git diff**
 
 * **git branch**
