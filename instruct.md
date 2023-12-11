@@ -1,4 +1,3 @@
-Whatislove
 # Инструкция по GIT
 
 * **git init**
