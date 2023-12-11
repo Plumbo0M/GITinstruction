@@ -1,3 +1,4 @@
+Whatislove_KEk
 # Инструкция по GIT
 
 * **git init**
